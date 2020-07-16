@@ -1,0 +1,29 @@
+﻿{
+	"version": 1594919679,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"images/nave-sheet0.png",
+		"images/inimigo1-sheet0.png",
+		"images/bt_instrucoes-sheet0.png",
+		"images/bt_jogar-sheet0.png",
+		"images/bt_menu-sheet0.png",
+		"images/bt_ttiro-sheet0.png",
+		"images/vida-sheet0.png",
+		"images/vida-sheet1.png",
+		"images/background-sheet0.png",
+		"images/explosao-sheet0.png",
+		"media/som_explosion.m4a",
+		"media/som_explosion.ogg",
+		"media/som_fundo.ogg",
+		"media/som_menu.ogg",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
